@@ -3,7 +3,7 @@
 ### Project description: 
 - Application to control the functionality of a fire alarm.
 
-#### I made evrything except: 
+#### I made everything except: 
 - Base images.
 - Base sounds.
 - Particle effects.
